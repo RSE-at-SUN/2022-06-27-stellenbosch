@@ -252,7 +252,7 @@ Edit the text to match who can attend the workshop. For instance:
 {% endcomment %}
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
-    This workshop is intended for researchers (postgrads, postdocs, staff) in the AgriScience Faculty of Stellenbosch University; applicants from other Faculties will be placed on the waitlist. Apply via <a href="https://forms.office.com/r/UfwjNfFueA">this form.</a>
+    This workshop is intended for researchers (postgrads, postdocs, staff) in the AgriScience Faculty of Stellenbosch University; applicants from other Faculties will be placed on the waitlist. Apply via <a href="https://forms.office.com/r/UfwjNfFueA">this form</a> (please be sure to be logged in to your Stellenbosch University Microsoft account).
 </p>
 
 
